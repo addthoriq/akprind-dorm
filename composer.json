@@ -1,0 +1,17 @@
+{
+    "name": "kang/akprind-dorm",
+    "autoload": {
+        "psr-4": {
+            "Kang\\AkprindDorm\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "addthoriq",
+            "email": "alvarro.thoriq@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=8"
+    }
+}
